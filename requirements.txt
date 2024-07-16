@@ -2,3 +2,4 @@ Image
 requests
 streamlit
 streamlit-lottie
+pillow
