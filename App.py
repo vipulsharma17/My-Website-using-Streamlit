@@ -22,7 +22,7 @@ local_css("style/style.css")
 # --------- Loading assets
 
 lottie_coding=load_lottieurl("https://lottie.host/d1749d0c-d3df-4d44-95ff-2c878401d479/UrdXpEL7jp.json")
-img_lottie_animation=Image.open("D:\Study,Courses\Python_100_days_of_code\My-website-using-Streamlit\My-Website-using-Streamlit\images/thumbnail1.png")
+img_lottie_animation=Image.open("D:\Study,Courses\Python 100 days of code\My-Website-using-Streamlit\images/thumbnail1.png")
 
 
 #------Header Section--------
