@@ -1,5 +1,5 @@
 Image
 requests
 streamlit
-streamlit_lottie
+streamlit-lottie
 st_lottie
