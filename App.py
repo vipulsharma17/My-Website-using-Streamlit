@@ -27,8 +27,8 @@ img_lottie_animation=Image.open("images/thumbnail1.png")
 
 #------Header Section--------
 with st.container():
-    st.subheader("Hi,I am Vipul :ninja:")
-    st.title(" Python Developer From Pune,India")
+    st.subheader("Hi,I am Vipul :shark:")
+    st.title(" Data Enthusiast From Pune,India")
     st.write("I am a budding coder diving deep into the world of Python and exploring its vast potential.")
     st.write("[Learn More > ](https://github.com/vipulsharma17)")
 
